@@ -1,0 +1,7 @@
+# ignore .git and .cache files
+.git
+.cache
+
+# ignore all .md except README.md
+*.md
+!README.md
