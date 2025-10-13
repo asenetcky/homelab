@@ -7,3 +7,9 @@ I'm following along with
 
 [Tailscale has mealie code snippets](https://github.com/tailscale-dev/video-code-snippets/tree/9e3201240b73142c235cf4578d0f549c689a7e27/2025-06-mealie) that I based my own
 configuration around. 
+
+[Mealie Documentation](https://docs.mealie.io/documentation/getting-started/introduction/)
+
+
+## Instructions
+
