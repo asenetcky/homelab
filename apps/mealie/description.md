@@ -11,5 +11,3 @@ configuration around.
 [Mealie Documentation](https://docs.mealie.io/documentation/getting-started/introduction/)
 
 
-## Instructions
-
